@@ -1,1 +1,1 @@
-# Code and data for Guy's IUCN analysis
+# Code, inputs, and outputs for Guy's IUCN analysis
